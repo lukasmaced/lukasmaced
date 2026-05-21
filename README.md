@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Macedo! 👋
+# Olá, eu sou o Lucas Rodrigues! 👋
 
 ### 🚀 Desenvolvedor Back-End | Python, Go & SQL
 
